@@ -1,0 +1,7 @@
+This is a simple part meant to replace the little plastic bumpers that the backs
+of those classic brown church-basement-style folding chairs are supposed
+to rest on, after they break off or are otherwise lost. Recommended export chord
+tolerance is 0.02mm or less; solvespace 3.1 generates a very slightly broken STL
+at that level of precision as of this writing, but today's sophisticated slicers
+seem to be able to smile tolerantly at you and generate reasonable G-code
+anyway. Your mileage may vary.
